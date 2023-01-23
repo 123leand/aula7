@@ -35,4 +35,4 @@ return resultado;
 
 }
 
-alert(potencia(2, -2));
+alert(potencia(0, 0));
